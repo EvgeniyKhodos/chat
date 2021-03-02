@@ -1,0 +1,29 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "NodeJS chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniyKhodos/chat.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Socket.io",
+    "Mongoose",
+    "Passport",
+    "Nunjucks"
+  ],
+  "author": "Evgeniy Khodos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniyKhodos/chat/issues"
+  },
+  "homepage": "https://github.com/EvgeniyKhodos/chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
