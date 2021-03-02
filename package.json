@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/EvgeniyKhodos/chat#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3"
   }
 }
